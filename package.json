@@ -1,0 +1,26 @@
+{
+  "name": "apiclients",
+  "version": "1.0.0",
+  "description": "API de Clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrescrespolasgalletas/apiclients.git"
+  },
+  "keywords": [
+    "API",
+    "Clients"
+  ],
+  "author": "Andrés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrescrespolasgalletas/apiclients/issues"
+  },
+  "homepage": "https://github.com/andrescrespolasgalletas/apiclients#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
